@@ -22,7 +22,7 @@
   ---
   
   
-  <div text-aling=100px>
+  <div text-aling=400px>
   ### :man_technologist: About Me :</br>
   </div>
   I am a game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
