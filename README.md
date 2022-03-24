@@ -16,6 +16,7 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="600" height="300"/>
+</div>
   
   
   ---
@@ -23,4 +24,3 @@
   
   :man_technologist: About Me :
   I am a game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-</div>
