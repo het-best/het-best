@@ -56,7 +56,7 @@
 ---
 
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Videos :
 <!-- BLOG-POST-LIST:START -->
 - [final](https://www.youtube.com/watch?v=aeUAKHA1xqU)
 - [Трейлер Reblu.](https://www.youtube.com/watch?v=cqNOGtE_IDQ)
