@@ -58,5 +58,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-
+- [final](https://www.youtube.com/watch?v=aeUAKHA1xqU)
+- [Трейлер Reblu.](https://www.youtube.com/watch?v=cqNOGtE_IDQ)
+- [Секретный звонок в дискорде!!!](https://www.youtube.com/watch?v=JxZN88XsDpg)
+- [Трейлер Defuce a bomb](https://www.youtube.com/watch?v=-mfS_DVB1dc)
+- [Old island трейлер.](https://www.youtube.com/watch?v=9qEqp2C8c-Y)
 <!-- BLOG-POST-LIST:END -->
