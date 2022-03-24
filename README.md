@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif" width="500"/>
-</div>
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCqi5e03W4cP8dwogo5TmxhQ">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&color=red&style=for-the-badge" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/HetbestS">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.youtube.com/channel/UCqi5e03W4cP8dwogo5TmxhQ">
+      <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&color=red&style=for-the-badge" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/HetbestS">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+ </div>
