@@ -25,6 +25,11 @@
   ### :man_technologist: About Me :</br>
   I am a game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
   
-- :zany_face: I’m working for fun
+- :zany_face: I work for pleasure.
 
-- :open_mouth: I tried to create an operating system
+- :open_mouth: I tried to create an operating system.
+
+---
+
+### :hammer_and_wrench: Languages :
+
