@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=het-best&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="120px"/>
   </h1>
 </div>
