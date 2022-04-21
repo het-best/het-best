@@ -58,9 +58,9 @@
 
 ### :writing_hand: Videos :
 <!-- BLOG-POST-LIST:START -->
+- [Прохождение Undertale | 2 серия | Андуха](https://www.youtube.com/watch?v=cJ2ZCjdXuv8)
 - [Прохождение Undertale | 1 серия](https://www.youtube.com/watch?v=8e3daZJs9_s)
 - [Я покупаю вещи](https://www.youtube.com/watch?v=fktLL6XpGwc)
 - [Леон · memnaya papka &amp; ksenon | Ремикс](https://www.youtube.com/watch?v=iCZEyDAizpY)
 - [Трейлер Reblu.](https://www.youtube.com/watch?v=cqNOGtE_IDQ)
-- [Секретный звонок в дискорде!!!](https://www.youtube.com/watch?v=JxZN88XsDpg)
 <!-- BLOG-POST-LIST:END -->
