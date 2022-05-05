@@ -58,7 +58,7 @@
 
 ### :writing_hand: Videos :
 <!-- BLOG-POST-LIST:START -->
-- [Ремикс I wanna be your slave](https://www.youtube.com/watch?v=5PN6s53zfEE)
+- [I wanna be your slave | Ремикс](https://www.youtube.com/watch?v=5PN6s53zfEE)
 - [Прохождение Undertale | 2 серия | Андуха](https://www.youtube.com/watch?v=cJ2ZCjdXuv8)
 - [Прохождение Undertale | 1 серия](https://www.youtube.com/watch?v=8e3daZJs9_s)
 - [Я покупаю вещи](https://www.youtube.com/watch?v=fktLL6XpGwc)
