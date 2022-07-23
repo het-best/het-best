@@ -58,9 +58,8 @@
 
 ### :writing_hand: Videos :
 <!-- BLOG-POST-LIST:START -->
-- [shadowraze Astral step | Ремикс | Het Best](https://www.youtube.com/watch?v=HlxPx7r5CwU)
-- [MEMNAYA PAPKA, Ksenon  АБЧИХБА | Ремикс](https://www.youtube.com/watch?v=oZw_b_FlaZo)
-- [ksenon, XBRO    С какой стати? | Ремикс](https://www.youtube.com/watch?v=HI4dpX5QuqU)
-- [I wanna be your slave | Ремикс](https://www.youtube.com/watch?v=5PN6s53zfEE)
-- [Прохождение Undertale | 2 серия | Андуха](https://www.youtube.com/watch?v=cJ2ZCjdXuv8)
+- [Трейлер Reblu.](https://www.youtube.com/watch?v=cqNOGtE_IDQ)
+- [Трейлер Defuce a bomb](https://www.youtube.com/watch?v=-mfS_DVB1dc)
+- [Old island трейлер.](https://www.youtube.com/watch?v=9qEqp2C8c-Y)
+- [Трейлер Cosmic Path.](https://www.youtube.com/watch?v=6uv3RfEP85I)
 <!-- BLOG-POST-LIST:END -->
