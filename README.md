@@ -53,12 +53,3 @@
 
 
 ---
-
-
-### :writing_hand: Videos :
-<!-- BLOG-POST-LIST:START -->
-- [Трейлер Reblu.](https://www.youtube.com/watch?v=cqNOGtE_IDQ)
-- [Трейлер Defuce a bomb](https://www.youtube.com/watch?v=-mfS_DVB1dc)
-- [Old island трейлер.](https://www.youtube.com/watch?v=9qEqp2C8c-Y)
-- [Трейлер Cosmic Path.](https://www.youtube.com/watch?v=6uv3RfEP85I)
-<!-- BLOG-POST-LIST:END -->
