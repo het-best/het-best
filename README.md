@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif" width="500"/>
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCqi5e03W4cP8dwogo5TmxhQ">
       <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&color=red&style=for-the-badge" alt="Youtube Badge"/>
