@@ -40,3 +40,5 @@ But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 o
   <a href="https://steamcommunity.com/id/hetbest"><img src="https://img.shields.io/badge/-steam-black?style=for-the-badge&logo=steam&labelColor=grey"/></a>
   <a href="https://discord.com/users/hetbest"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&labelColor=white"/></a>
 </div>
+
+![](https://i.imgur.com/GiNSEpR.png)
