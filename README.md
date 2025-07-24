@@ -4,6 +4,7 @@ Hi, I'm just some random, stupid guy, who thinks he is programmer.<br><br>
 ## My programming history
 I am programming from 2020, first I was creating some basic pages in html, css and js.<br>
 After that I tryed c++, but I don't liked it, so I started learning java.<br>
+Than I tryed C# and learnt it pretty good but for some reason(I don't remember now) I .<br>
 I also didn't liked java and tryed Python.<br>
 And in the end I come back to c++ and it's my main language now.
 
@@ -14,7 +15,7 @@ Then in my stupid head came an idea "I can create my own engine!" and from aroun
 
 ## 🏆Achievements
 Not too much, just yet!<br>
-But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 other classmates
+But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 other classmates in 2025, our team was called "Mokre smerfy" (Wet Smurfs on english).
 
 
 # 💻 Languages and stuff:
@@ -34,7 +35,9 @@ But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het-best&layout=donut&hide_border=true&theme=radical&bg_color=0d1117"/>
 </div>
 
-# 📞 Other
+# Other
+
+## 📞 Contact
 <div align=center>
   <a href="https://hetbest.itch.io"><img src="https://img.shields.io/badge/-itch.io-pink?style=for-the-badge&logo=itchdotio&labelColor=white"/></a>
   <a href="https://steamcommunity.com/id/hetbest"><img src="https://img.shields.io/badge/-steam-black?style=for-the-badge&logo=steam&labelColor=grey"/></a>
