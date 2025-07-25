@@ -23,7 +23,9 @@ But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 o
   <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&labelColor=grey"/>
   <img src="https://img.shields.io/badge/-VisualStudio-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&labelColor=white"/>
-  <object data="https://img.shields.io/badge/-itch.io-pink?style=for-the-badge&logo=itchdotio&labelColor=white" width="500" height="200"></object>
+  <img src="https://img.shields.io/badge/-OpenGL-blue?style=for-the-badge&logo=opengl&labelColor=white"/>
+  <img src="https://img.shields.io/badge/-SFML-green?style=for-the-badge&logo=sfml&labelColor=white"/>
+  <img src="https://img.shields.io/badge/-Notepad%2B%2B-green?style=for-the-badge&logo=notepadplusplus&labelColor=white"/>
 </div>
 
 # 📈 Stats
