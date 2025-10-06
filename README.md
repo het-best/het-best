@@ -12,7 +12,7 @@ And in the end I come back to c++ and it's my main language now.
 I always wanted to create games, first I tryed Unity, then Godot.<br>
 I made a couple games with Godot, but they weren't good in any way.<br>
 Then in my stupid head came an idea "I can create my own engine!" and from around 2022-2023 I am working on [Real Engine](https://github.com/het-best/Real-Engine).<br>
-It is a voxel game engine, made on c++ using OpenGL, glm, sfml and other stuff.
+It is a voxel game engine, made on c++ using Vulkan, glm, glfw and other stuff.
 
 ## 🏆Achievements
 Not too much, just yet!<br>
