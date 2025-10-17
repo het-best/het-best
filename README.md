@@ -11,8 +11,8 @@ And in the end I come back to c++ and it's my main language now.
 ## My magnum opus
 I always wanted to create games, first I tryed Unity, then Godot.<br>
 I made a couple games with Godot, but they weren't good in any way.<br>
-Then in my stupid head came an idea "I can create my own engine!" and from around 2022-2023 I am working on [Real Engine](https://github.com/het-best/Real-Engine).<br>
-It is a voxel game engine, made on c++ using Vulkan, glm, glfw and other stuff.
+Then in my stupid head came an idea "I can create my own engine!" and from 2022 I am working on [Real Engine](https://github.com/het-best/Real-Engine).<br>
+It is a voxel game engine, made in c++ using Vulkan, glm, glfw and other stuff.
 
 ## 🏆Achievements
 Not too much, just yet!<br>
@@ -21,12 +21,10 @@ But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 o
 
 # 💻 Languages and stuff:
 <div align=center>
-  <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&labelColor=grey"/>
-  <img src="https://img.shields.io/badge/-VisualStudio-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Vulkan-red?style=for-the-badge&logo=Vulkan&labelColor=grey"/>
-  <img src="https://img.shields.io/badge/-SFML-green?style=for-the-badge&logo=sfml&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-Notepad%2B%2B-green?style=for-the-badge&logo=notepadplusplus&labelColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vulkan-red?style=for-the-badge&logo=Vulkan&logoColor=red&logoSize=auto&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=blue&labelColor=white"/>
 </div>
 
 # 📈 Stats
