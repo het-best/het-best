@@ -30,10 +30,10 @@ But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 o
 # 📈 Stats
 <div align=center>
  <img src="https://github-readme-streak-stats-ysaa.vercel.app/?user=het-best&card_width=500&card_height=200&stroke=0D1117&hide_border=true&theme=radical&background=0d1117"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=het-best&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117"/>
+  <img src="https://github-readme-stats-seven-gamma-39.vercel.app/api?username=het-best&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117"/>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het-best&layout=donut&hide_border=true&theme=radical&bg_color=0d1117"/>
+  <img src="https://github-readme-stats-seven-gamma-39.vercel.app/api/top-langs/?username=het-best&layout=donut&hide_border=true&theme=radical&bg_color=0d1117"/>
 </div>
 
 # Other
