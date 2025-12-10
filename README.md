@@ -1,22 +1,21 @@
 # 👋 About me
-Hi, I'm just some random, stupid guy, who thinks he is programmer.<br><br>
+Hi, I'm just a random guy who thinks he's a programmer.<br><br>
 
 ## My programming history
-I am programming from 2020, first I was creating some basic pages in html, css and js.<br>
-After that I tryed c++, but I don't liked it, so I started learning java.<br>
-Than I tryed C# and learnt it pretty good but for some reason(I don't remember now) I .<br>
-I also didn't liked java and tryed Python.<br>
-And in the end I come back to c++ and it's my main language now.
+I have been programming since 2020; at first I created basic web pages using HTML, CSS, and JS.<br>
+After that I tried C++, but I didn't like it, so I started learning Java.<br>
+Then I tried C# and learned it quite well, but for some reason (I don't remember now) I stopped.<br>
+I also didn't like Java and tried Python.<br>
+In the end, I came back to C++, and it's my main language now.
 
 ## My magnum opus
-I always wanted to create games, first I tryed Unity, then Godot.<br>
-I made a couple games with Godot, but they weren't good in any way.<br>
-Then in my stupid head came an idea "I can create my own engine!" and from 2022 I am working on [Real Engine](https://github.com/het-best/Real-Engine).<br>
-It is a voxel game engine, made in c++ using Vulkan, glm, glfw and other stuff.
+I've always wanted to create games, first I tried Unity, then Godot.<br>
+I made a couple of games with Godot, but they weren't very good.<br>
+Then the stupidest idea possible came to me, "I can create my own engine!" and since 2022 I have been working on [Real Engine](https://github.com/het-best/Real-Engine).
 
 ## 🏆Achievements
-Not too much, just yet!<br>
-But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 other classmates in 2025, our team was called "Mokre smerfy" (Wet Smurfs on english).
+Not many achievements yet!<br>
+But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 classmates in 2025, our team was called "Mokre smerfy" (Wet Smurfs in english).
 
 
 # 💻 Languages and stuff:
