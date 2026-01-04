@@ -14,7 +14,7 @@ I made a couple of games with Godot, but they weren't very good.<br>
 Then the stupidest idea possible came to me, "I can create my own engine!" and since 2022 I have been working on [Real Engine](https://github.com/het-best/Real-Engine).
 
 ## 🏆Achievements
-Not many achievements yet!<br>
+Not many yet!<br>
 But I won polish CTF called [Hack4Krak](https://hack4krak.pl) with a team of 4 classmates in 2025, our team was called "Mokre smerfy" (Wet Smurfs in english).
 
 
