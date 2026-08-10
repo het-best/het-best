@@ -20,9 +20,6 @@ but i won CTF [Hack4Krak](https://hack4krak.pl) with a team of 4 other dumbasses
   <img src="https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion&logoColor=white"/>
   <img src="https://img.shields.io/badge/vscodium-blue?style=for-the-badge&logo=vscodium&logoColor=white"/>
   <img src="https://img.shields.io/badge/android%20studio-green?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
 </div>
 
 <div align=center>
