@@ -23,14 +23,13 @@ but i won CTF [Hack4Krak](https://hack4krak.pl) with a team of 4 other dumbasses
 </div>
 
 <div align=center>
- <img src="https://github-readme-streak-stats-ysaa.vercel.app/?user=het-best&card_width=500&card_height=200&stroke=0D1117&hide_border=true&theme=radical&background=0d1117"/>
-  <img src="https://github-readme-stats-seven-gamma-39.vercel.app/api?username=het-best&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117"/>
+ <img src="https://github-readme-streak-stats-ysaa.vercel.app?user=het-best&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=het-best&include_all_commits=true&theme=tokyonight&hide_border=true"/>
   <br>
   
-  <img src="https://github-readme-stats-seven-gamma-39.vercel.app/api/top-langs/?username=het-best&layout=donut&hide_border=true&theme=radical&bg_color=0d1117"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=het-best&layout=donut&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align=center>
   <img src="https://i.imgur.com/nguDUiZ.jpeg"/>
 </div>
-
