@@ -1,2 +1,11 @@
 - name: GitHub Readme Streak Stats Action
+  # You may pin to the exact commit or the version.
+  # uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd
   uses: DenverCoder1/github-readme-streak-stats@v1.8.2
+  with:
+    # Card options as a query string or JSON object.
+    options: # optional, default is 
+    # Output path for the SVG file.
+    path: # optional, default is profile/streak.svg
+    # GitHub token (PAT or GITHUB_TOKEN).
+    token: # optional, default is 
