@@ -24,7 +24,7 @@ but i won CTF [Hack4Krak](https://hack4krak.pl) with a team of 4 other dumbasses
 </div>
 
 <div align=center>
- <img src="https://github-readme-streak-stats-ysaa.vercel.app?user=het-best&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+ <img src="./profile/streak.svg"/>
   <img src="https://github-stats-extended.vercel.app/api?username=het-best&include_all_commits=true&theme=tokyonight&hide_border=true"/>
   <br>
   
