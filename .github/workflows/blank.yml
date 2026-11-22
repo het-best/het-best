@@ -1,0 +1,13 @@
+
+name: readme-stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: GitHub Readme Streak Stats Action
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.2
